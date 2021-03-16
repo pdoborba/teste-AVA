@@ -1,0 +1,17 @@
+.activities{
+    display: block;
+    text-align: center;
+}
+
+.activities h1{
+    color: rgb(49, 49, 49);
+    padding-top: 10%;
+    font-size: 250%;
+}
+.activities p{
+    padding-top: 2%;
+    width: 60%;
+    margin-left: 20%;
+    color: grey;
+    line-height: 155%;
+}

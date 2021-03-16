@@ -1,0 +1,23 @@
+.home{
+    display: block;
+    text-align: center;
+}
+
+.icon-info{
+    color: yellow;
+    font-size: 100% !important;
+}
+
+.home h1{
+    padding-top: 0.5%;
+    color: rgb(49, 49, 49);
+    font-size: 150%;
+}
+.home p{
+    padding-top: 2%;
+    font-size: 50%;
+    width: 60%;
+    margin-left: 20%;
+    color: grey;
+    line-height: 155%;
+}
